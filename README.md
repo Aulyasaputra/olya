@@ -1,2 +1,0 @@
-# olya
-pertamakali membuat reposity

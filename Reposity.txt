@@ -1,0 +1,4 @@
+REPOSITORY AULYA TRMM 1-A
+pertemuan 13 membuat repository
+file nama aulya 
+saat file di bukan maka akan muncul file ini
